@@ -1,0 +1,15 @@
+*.pyc
+*~
+__pycache__
+db.sqlite3
+/media
+/site
+/logs
+/staticfiles
+
+# If you're using a virtual environment
+venv/
+.env
+
+# Ignore secret keys
+.secret_key.txt
